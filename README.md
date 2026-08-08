@@ -36,9 +36,9 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | Platform | Description | Pricing | Free Tier Limit | Valuation / Size |
 |----------|-------------|---------|-----------------|------------------|
 | **[Microsoft Entra Passwordless](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id)** | Native passwordless capabilities within Microsoft Entra ID, including Windows Hello, FIDO2 keys, and passkeys. | Free / P1 / P2 | 50,000 MAUs (External ID) | $2T+ |
-| **[Cisco Duo](https://duo.com/)** | Multi-factor and passwordless authentication platform with strong device trust and adaptive access controls. | Free / Essentials / Advantage | 10 Users | $200B+ |
+| **[Cisco Duo](https://duo.com/)** | Multi-factor and passwordless authentication platform with strong device trust and adaptive access controls. | Free / Essentials ($3/user/mo) / Advantage | 10 Users | $200B+ |
 | **[Okta FastPass](https://www.okta.com/)** | Okta’s passwordless authentication feature providing phishing-resistant login across devices and applications. | Custom / Enterprise | N/A | $15B+ |
-| **[Auth0 (Okta Customer Identity)](https://auth0.com/)** | Comprehensive identity platform with robust passkey, WebAuthn, and passwordless support alongside traditional authentication methods. | Free / Essentials / Professional | 7,500 MAUs | $6.5B+ |
+| **[Auth0 (Okta Customer Identity)](https://auth0.com/)** | Comprehensive identity platform with robust passkey, WebAuthn, and passwordless support alongside traditional authentication methods. | Free / Essentials ($35/mo) / Professional ($240/mo) | 7,500 MAUs | $6.5B+ |
 | **[Ping Identity](https://www.pingidentity.com/)** | Enterprise identity platform with advanced passwordless, passkey, and adaptive authentication capabilities. | Custom / Enterprise | N/A | $2.8B+ |
 | **[Beyond Identity](https://www.beyondidentity.com/)** | Passwordless identity platform using certificate-based and device-bound credentials for high-assurance workforce and customer authentication. | Custom / Enterprise | N/A | $1.1B+ |
 | **[Stytch](https://stytch.com/)** | API-first authentication platform specializing in passwordless methods (passkeys, magic links, OTP) for consumer and B2B applications. | Free / Pay-as-you-go / Enterprise | 5,000 MAUs (B2C) | $1B+ |
@@ -46,14 +46,14 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[WorkOS](https://workos.com/)** | Enterprise-ready identity layer for B2B SaaS offering SSO, directory sync, and modern authentication including passkeys. | Free / Custom | 1,000,000 MAUs | $800M+ |
 | **[Yubico](https://www.yubico.com/)** | Hardware security key provider (YubiKeys) and supporting software for FIDO2/WebAuthn passwordless authentication. | Hardware Purchases | N/A | $800M+ |
 | **[HYPR](https://www.hypr.com/)** | Enterprise passwordless authentication platform focused on phishing-resistant workforce login using device-bound credentials and FIDO standards. | Custom / Enterprise | N/A | $500M+ |
-| **[Frontegg](https://frontegg.com/)** | Multi-tenant identity and user management platform for SaaS with passwordless options, SSO, and self-service admin portals. | Free / Growth / Enterprise | Developer plan features | $400M+ |
-| **[Descope](https://www.descope.com/)** | Developer-friendly CIAM platform with visual flow builder, strong support for passkeys, magic links, and passwordless authentication journeys. | Free / Pro / Enterprise | 7,500 MAUs | $350M+ |
+| **[Frontegg](https://frontegg.com/)** | Multi-tenant identity and user management platform for SaaS with passwordless options, SSO, and self-service admin portals. | Free / Scale (Custom) / Enterprise | Developer plan features | $400M+ |
+| **[Descope](https://www.descope.com/)** | Developer-friendly CIAM platform with visual flow builder, strong support for passkeys, magic links, and passwordless authentication journeys. | Free / Pro ($249/mo) / Enterprise | 7,500 MAUs | $350M+ |
 | **[Secret Double Octopus](https://doubleoctopus.com/)** | Passwordless authentication focused on high-security enterprise environments and multi-factor passwordless experiences. | Custom / Enterprise | N/A | $250M+ |
-| **[Magic](https://magic.link/)** | Passwordless authentication platform using magic links and Web3-friendly identity for consumer and developer applications. | Free / Developer / Enterprise | 1,000 MAUs | $200M+ |
-| **[FusionAuth](https://fusionauth.io/)** | Flexible authentication and user management platform supporting passkeys, passwordless flows, and self-hosted or cloud deployment. | Free (Community) / Cloud | Unlimited (Self-hosted) | $150M+ |
+| **[Magic](https://magic.link/)** | Passwordless authentication platform using magic links and Web3-friendly identity for consumer and developer applications. | Free / Startup ($99/mo) / Enterprise | 1,000 MAUs | $200M+ |
+| **[FusionAuth](https://fusionauth.io/)** | Flexible authentication and user management platform supporting passkeys, passwordless flows, and self-hosted or cloud deployment. | Free / Starter ($162/mo) / Essentials ($240/mo) | Unlimited (Self-hosted) | $150M+ |
 | **[Trusona](https://www.trusona.com/)** | Passwordless and multi-factor authentication solutions emphasizing ease of use and strong security for enterprise and consumer use. | Custom / Enterprise | N/A | $150M+ |
-| **[OwnID](https://www.ownid.com/)** | Passwordless authentication solution emphasizing frictionless login experiences with biometrics and device credentials. | Free / Pro / Custom | 10,000 MAUs | $100M+ |
-| **[Hanko (Cloud)](https://www.hanko.io/)** | Modern authentication platform (also available open-source) focused on passkeys and passwordless user experiences. | Free / Pro | Unlimited MAUs (Core features) | $50M+ |
+| **[OwnID](https://www.ownid.com/)** | Passwordless authentication solution emphasizing frictionless login experiences with biometrics and device credentials. | Free / Usage ($0.01/user/mo) / Enterprise | 10,000 MAUs | $100M+ |
+| **[Hanko (Cloud)](https://www.hanko.io/)** | Modern authentication platform (also available open-source) focused on passkeys and passwordless user experiences. | Free / Pro ($29/mo) | Unlimited MAUs (Core features) | $50M+ |
 
 ## 🔓 Open-Source GitHub Projects
 
