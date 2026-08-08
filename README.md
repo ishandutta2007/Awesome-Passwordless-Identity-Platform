@@ -1,6 +1,6 @@
 # Awesome-Passwordless-Identity-Platform
 
-# Top Passwordless Identity Platforms Ecosystem
+## Top Passwordless Identity Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Passwordless Authentication, Passkeys, WebAuthn/FIDO2, Magic Links, Biometrics & Phishing-Resistant Identity*  
